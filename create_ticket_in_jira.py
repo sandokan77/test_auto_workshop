@@ -70,8 +70,8 @@ def getFixVersion():
     return wait_until_element_visible("//textarea[@id='fixVersions-textarea']");
 
 #----test script----
-USERNAME = 'chris';
-PASSWORD = 'Pwd123';
+USERNAME = '';
+PASSWORD = '';
 ASSIGNEE = USERNAME;
 PASSWORD = PASSWORD;
 SITE = 'SMSS';
